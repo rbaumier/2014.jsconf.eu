@@ -232,7 +232,7 @@ So, Steele said, we should now think of a language design for being a pattern fo
 
 And, I agree with that.
 
- An example of this is underscore or lowdash. Help stabilize what we can use, regardless of the es spec.
+ An example of this is underscore or lodash. Help stabilize what we can use, regardless of the es spec.
 
 So, the JS is the thing we have to worry about.
 
